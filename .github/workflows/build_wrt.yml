@@ -8,7 +8,7 @@ on:
         required: true
         description: Device Model
         type: choice
-        default: jdcloud_ipq60xx_immwrt
+        default: wax206
         options:
           - aliyun_ap8220_immwrt
           - cmcc_rax3000m_immwrt
@@ -18,7 +18,7 @@ on:
           - linksys_mx4x00_immwrt
           - qihoo_360v6_immwrt
           - redmi_ax5_immwrt
-          - redmi_ax6_immwrt
+          - wax206
           - redmi_ax6_libwrt
           - redmi_ax6000_immwrt21
           - zn_m2_immwrt
